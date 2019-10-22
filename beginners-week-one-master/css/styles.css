@@ -1,0 +1,10 @@
+body {
+  color:red;
+  font-family: arial;
+  margin: 0px;
+
+}
+
+li:hover  {
+      font-size: 1.2
+}
